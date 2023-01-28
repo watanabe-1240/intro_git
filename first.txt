@@ -3,3 +3,4 @@ Gitの基本操作を学習。
 
 git add
 git commit
+git rm
